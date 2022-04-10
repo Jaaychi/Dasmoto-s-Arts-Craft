@@ -1,0 +1,43 @@
+.header {
+    background-image: url("pattern.jpeg");
+    height: 100px;
+    width: 100%;
+}
+
+#headerparagraph {
+    color: rgb(255, 255, 175);
+    text-align: center;
+    font-weight: bold;
+    font-size: 80px;
+    font-family: sans-serif;
+    margin: auto;
+}
+.blue {
+    color:blue !important;
+}
+
+p {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+#brushes {
+    background-color: lightgreen;
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+#frames {
+    background-color: lightskyblue;
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+#paint {
+    background-color: lightsalmon;
+    color: white;
+    font-size: 30px;
+    font-family: sans-serif;
+}
